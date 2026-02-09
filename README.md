@@ -2,7 +2,7 @@
 
 TinyGawant Antenna Project - A minature QRP antenna with a built-in tuner and SWR indicator.
 
-More instructions coming January 2026!
+[N6ARA Product Page - TinyGawant](https://n6ara.com/product/tinygawant-kit/)
 
 # Build
 
